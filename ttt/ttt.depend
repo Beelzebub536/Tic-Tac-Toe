@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1683728243 source:c:\users\user\desktop\c programs\ttt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1683625777 source:c:\users\lib-605\desktop\ttt\main.c
+	<stdio.h>
+	<windows.h>
+
